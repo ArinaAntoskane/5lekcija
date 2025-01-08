@@ -59,3 +59,4 @@ print(num)
     #aizvietojama 2.datu kopijā attiecīgus vārdus
 #masīvu 2.datu kopijai var pāarvērst par data frame (pandas biblioteka)
 #kopējā alga katram darbiniekam
+
